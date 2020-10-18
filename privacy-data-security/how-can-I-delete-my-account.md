@@ -1,6 +1,7 @@
 # How can I delete my account?
 
 
+
 1. Go to [Eventyay.com](https://eventyay.com), `login` to your account and click on your profile dropdown button on the top right corner and click `Account`. 
 ![delete account](/images/how-can-I-delete-my-account-1.png)
 
