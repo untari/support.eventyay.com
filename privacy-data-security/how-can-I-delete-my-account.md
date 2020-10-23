@@ -1,4 +1,5 @@
 
+
 # How can I delete my account?
 
 
@@ -11,5 +12,7 @@
 3. Then, click on `Delete Your Account`.
     Note: If you have events you can't delete your account. You have to transfer the ownership or delete your events first.
 ![delete account](/images/how-can-I-delete-my-account-3.png)
+
+
 
 
