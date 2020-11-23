@@ -5,7 +5,7 @@ Log in using your Eventyay `username` and `password`. On the top right hand corn
 ![order-attendees](/images/How-to-export-and-download-the-orders-list-of-my-event-1.png)
 
 ### 2. Event dashboard
-Choose the event you want to export the orders list, Then select `event dashboard`.
+Choose the event you want to export the orders list, then select `event dashboard`.
 ![order-attendees](/images/How-to-export-and-download-the-orders-list-of-my-event-2.png)
 
 ### 3. Select `tickets` and choose `orders`
