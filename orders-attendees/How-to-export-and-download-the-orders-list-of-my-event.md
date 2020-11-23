@@ -1,4 +1,4 @@
-#How to export and download the orders list of my event?
+# How to export and download the orders list of my event?
 
 ### 1. Log in
 Log in using your Eventyay `username` and `password`. On the top right hand corner, click on your username, choose `manage event`.
